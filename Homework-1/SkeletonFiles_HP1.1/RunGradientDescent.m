@@ -4,7 +4,7 @@
 
  function x = RunGradientDescent(xStart, mu, eta, gradientTolerance)
     
-    
+(*assign varible  *)
 %  mu = 100;
 % eta = 0.0001;
 % xStart =  [1 2]; %[Specify as a vector with two components, see Step 3 of the problem formulation];
